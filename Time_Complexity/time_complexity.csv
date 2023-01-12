@@ -1,0 +1,11 @@
+Input Size (N), Time Complexity, Algorithms
+10^9 , O(log(N)) or Sqrt(N),
+10^8, O(N)
+10^7, O(N)
+10^6, O(N)
+10^5, O(N*log(N))
+10^4, O(N^2)
+10^2, O(N^3)
+<= 160, O(N^4)
+<= 18, O(2^N * N^2)
+<= 10, O(N!) or O(2^N)
